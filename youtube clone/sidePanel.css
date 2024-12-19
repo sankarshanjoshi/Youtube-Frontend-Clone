@@ -1,0 +1,62 @@
+.side-panel{
+    display: flex;
+    flex-direction: column;
+    width: 70px;
+    background-color: white;
+    justify-content: start;
+    align-items: center;
+    
+    border-right-width: 1px;
+    border-style: solid;
+    border-top-width: 0;
+    border-bottom-width:0 ;
+    border-left-width: 0;
+    border-color: rgb(240, 236, 236);
+    
+    
+    position: fixed;
+    bottom: 0;
+    top: 72px;
+    left: 0;
+    
+
+}
+.home{
+    height: 25px;
+    margin: 20px;
+}
+.explore{
+    height: 25px;
+    margin: 20px;
+}
+.subs{
+    height: 25px;
+    margin: 20px;
+}
+.originals{
+    height: 25px;
+    margin: 20px;
+}
+.music{
+    height: 25px;
+    margin: 20px;
+}
+.library{
+    height: 25px;
+    margin: 20px;
+    
+}
+
+.home-div{
+    justify-content: centre;
+    align-items: center;
+}
+.sidepanelp{
+    text-align: center;
+    margin: 0;
+    font-size: 10px;
+    font-weight: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
